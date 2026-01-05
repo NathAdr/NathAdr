@@ -25,4 +25,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/NathAdr/NathAdr/output/snake.svg" alt="Snake animation" />
